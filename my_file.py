@@ -1,0 +1,1 @@
+print("Hello world! This is my first github repo and I will try to understand it within this project."
